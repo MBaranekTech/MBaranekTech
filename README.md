@@ -81,7 +81,6 @@ More on **[baranekm.cz/projects](https://baranekm.cz/projects.html)**
 - 📜 Preparing for **AWS Solutions Architect Associate**
 - 🟢 Preparing for **NVIDIA-Certified Associate: AI Infrastructure and Operations (NCA-AIIO)**
 - 🏗️ Building a flagship infrastructure project — Terraform · EKS · GitOps · Prometheus/Grafana
-- 🇦🇹 Learning **German** (A2 → B1)
 - 🏠 Tinkering with home labs and contributing to open source
 
 ---
