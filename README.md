@@ -13,10 +13,15 @@ starting to explore robotics with **ROS 2**.
 ## 🤖 AI, developer tooling & robotics
 
 I use AI as an engineering tool rather than a substitute for verification: grounding outputs in
-real data, browser evidence, repeatable checks, and human-readable reports.
+real data, browser evidence, repeatable checks, and human-readable reports. I stay model-agnostic
+and experiment with both Western and Chinese models, cloud APIs, and local inference.
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat&logo=deepseek&logoColor=white)
+![Kimi](https://img.shields.io/badge/Kimi-000000?style=flat)
+![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-local_models-000000?style=flat&logo=ollama&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_servers-000000?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-5A29E4?style=flat)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-10A37F?style=flat)
