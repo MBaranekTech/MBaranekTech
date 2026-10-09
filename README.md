@@ -73,7 +73,8 @@ More on **[baranekm.cz/projects](https://baranekm.cz/projects.html)**
 
 - 🤖 Building local-first AI tools, agent workflows, and MCP integrations
 - 🦾 Learning **ROS 2** fundamentals, nodes, topics, services, and robotics workflows
-- 📜 Preparing for **AWS Solutions Architect Associate** (exam: October 2026)
+- 📜 Preparing for **AWS Solutions Architect Associate**
+- 🟢 Preparing for **NVIDIA-Certified Associate: AI Infrastructure and Operations (NCA-AIIO)**
 - 🏗️ Building a flagship infrastructure project — Terraform · EKS · GitOps · Prometheus/Grafana
 - 🇦🇹 Learning **German** (A2 → B1)
 - 🏠 Tinkering with home labs and contributing to open source
