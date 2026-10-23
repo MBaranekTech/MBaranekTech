@@ -77,7 +77,7 @@ More on **[baranekm.cz/projects](https://baranekm.cz/projects.html)**
 ## 📈 Currently
 
 - 🤖 Building local-first AI tools, agent workflows, and MCP integrations
-- 🦾 Learning **ROS 2** fundamentals, nodes, topics, services, and robotics workflows
+- 🦾 Learning **[ROS 2 and Isaac ROS](https://github.com/MBaranekTech/isaac-ros-home-lab)** — nodes, topics, services, robotics workflows, and GPU-accelerated home-lab experiments
 - 📜 Preparing for **[AWS Certified Solutions Architect – Associate](https://github.com/MBaranekTech/aws-saa-c03-study-guide)** — study notes, architecture labs, and original practice questions
 - 🟢 Preparing for **NVIDIA-Certified Associate: AI Infrastructure and Operations (NCA-AIIO)**
 - 🏗️ Building a flagship infrastructure project — Terraform · EKS · GitOps · Prometheus/Grafana
